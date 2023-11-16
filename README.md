@@ -28,10 +28,10 @@ wizard@magicmirror:~$                                                           
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=D-Andrea" />
+  <img height=197 align="center" src="https://github-readme-stats.vercel.app/api?username=D-Andrea&hide_border=True&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D-Andrea&layout=compact&langs_count=8&card_width=320" />
+  <img height=197 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D-Andrea&theme=onedark&hide_border=True&border_radius=3.0&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
@@ -85,6 +85,14 @@ wizard@magicmirror:~$                                                           
 
 #
 #
+`C Family`
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+
+
+#
+#
 `Server and Web`
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -113,6 +121,7 @@ wizard@magicmirror:~$                                                           
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.freepnglogos.com/uploads/cisco-png-logo/cisco-ccna-png-logo-16.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png"/>
