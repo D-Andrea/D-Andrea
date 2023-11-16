@@ -1,6 +1,30 @@
 # ⚙️ Diogo D'Andrea
 
-**`Computer Engineer/Hobbist/Enthusiast and Developer`**
+**`Computer Engineer/Scientist/Hobbist/Enthusiast and Developer`**
+```
+wizard@magicmirror:~$ neofetch
+
+             ,'``.._   ,'``.                                   wizard@magicmirror   
+            :,--._:)\,:,._,.:                                  -----------------------
+            :`--,@@@:`...';\                                   $ /Fascinated/by/problems/deemed/unsolvable.py
+             `,'@@@@@@@`---'@@`.                               $ py unsolvable.py
+             /@@@@@@@@@@@@@@@@@:                               Let's start by building something new
+            /@@@@@@@@@@@@@@@@@@@\                              206 ms
+          ,'@@@@@@@@@@@@@@@@@@@@@:\.___,-.                     -----------------------
+         `...,---'``````-..._@@@@|:@@@@@@@\                    MEMORY: 3x+1 PB
+           (                 )@@@;:@@@@)@@@\  _,-.             SYSTEM: PsychoFrogOS
+            `.              (@@@//@@@@@@@@@@`'@@@@\            GPU: Atari ANTIC
+             :               `.//@@)@@@@@@)@@@@@,@;            CPU: INTEL 4004
+             |`.            _,'/@@@@@@@)@@@@)@,'@,'            RESOLUTION: 1920x1080
+             :`.`-..____..=:.-':@@@@@.@@@@@_,@@,'
+            ,'\ ``--....-)='    `._,@@\    )@@@'``._
+           /@_@`.       (@)      /@@@@@)  ; / \ \`-.'
+          (@@@`-:`.     `' ___..'@@_,-'   |/   `.)
+           `-. `.`.``-----``--,@@.'
+             |/`.\`'        ,',');
+                 `         (/  (/
+wizard@magicmirror:~$                                                                                     0ms
+```
 
 ---
 ### 🛠️ The tools I use
@@ -48,6 +72,8 @@
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/184143/java.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/struts-logo-8759EBE252-seeklogo.com.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Gwt_logo.png"/>
 
 #
 #
