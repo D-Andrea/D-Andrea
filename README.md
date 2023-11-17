@@ -27,14 +27,6 @@ wizard@magicmirror:~$                                                           
 ```
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=D-Andrea&hide_border=True&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=D-Andrea&theme=onedark&hide_border=True&border_radius=3.0&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
 ### 🛠️ The tools I use
 
 `Main`
