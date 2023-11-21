@@ -31,7 +31,6 @@ wizard@magicmirror:~$                                                           
 
 `Main`
 
-<img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>
